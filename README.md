@@ -1,6 +1,6 @@
 # UAI_Homework
 
-- Your student ID: **12345678**
-- Your name: **Nguyen Van A**
-- Your class: **DS/CS/ICT/...**
+- Your student ID: 2411137
+- Your name: Hoang Viet Duc
+- Your class: DS
 
